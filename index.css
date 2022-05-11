@@ -38,7 +38,7 @@ h1 {
 section {
     background: #1f2937;
     padding: 20px 0px;
-    min-height: 50vh;
+    min-height: 100vh;
 }
 
 .convert {
